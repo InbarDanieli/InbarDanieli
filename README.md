@@ -4,7 +4,7 @@ my name is inbar danieli and i'm a front-end developer
 ## favorite rapositories:
 
 <a href="https://github.com/InbarDanieli/tasks-meneger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=tasks-meneger" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=tasks-manager" />
 </a>
 <a href="https://github.com/InbarDanieli/pull-request-community">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=pull-request-community" />
