@@ -1,6 +1,4 @@
 ### Hi there 👋
-my name is inbar and im a front end developer
-
 
 ## 📈 GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
