@@ -9,6 +9,9 @@ my name is inbar danieli and i'm a front-end developer
 <a href="https://github.com/InbarDanieli/pull-request-community">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=pull-request-community" />
 </a>
+<a href="https://github.com/InbarDanieli/Cat-CSS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=Cat-CSS" />
+</a>
 
 <br/><br/>
 
