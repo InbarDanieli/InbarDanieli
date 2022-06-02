@@ -6,11 +6,14 @@ my name is inbar danieli and i'm a front-end developer
 <a href="https://github.com/InbarDanieli/tasks-meneger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=tasks-manager" />
 </a>
-<a href="https://github.com/InbarDanieli/pull-request-community">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=pull-request-community" />
+<a href="https://github.com/Pull-Request-Community/pull-request-community-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pull-Request-Community&repo=pull-request-community-website" />
 </a>
 <a href="https://github.com/InbarDanieli/Cat-CSS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=Cat-CSS" />
+</a>
+<a href="https://github.com/InbarDanieli/Counter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=Counter" />
 </a>
 
 <br/><br/>
