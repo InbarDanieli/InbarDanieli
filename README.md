@@ -3,8 +3,8 @@ my name is inbar danieli and i'm a front-end developer
 
 ## favorite rapositories:
 
-<a href="https://github.com/InbarDanieli/tasks-meneger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=tasks-manager" />
+<a href="https://github.com/InbarDanieli/responsive-carousel-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=responsive-carousel-react" />
 </a>
 <a href="https://github.com/Pull-Request-Community/pull-request-community-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pull-Request-Community&repo=pull-request-community-website" />
