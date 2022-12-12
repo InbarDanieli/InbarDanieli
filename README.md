@@ -1,5 +1,5 @@
 ### Hi there 👋
-my name is inbar danieli and i'm a front-end developer
+my name is Inbar Danieli and i'm a FrontEnd Developer
 
 <a href="https://www.linkedin.com/in/inbar-danieli" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
