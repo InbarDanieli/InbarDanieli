@@ -24,4 +24,5 @@ my name is Inbar Danieli and i'm a FrontEnd Developer
 ## 📈 GitHub Stats
 ![Inbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InbarDanieli&show_icons=true&theme=vue-dark)
 <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inbarDanieli&layout=compact)
 
