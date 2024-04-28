@@ -1,5 +1,5 @@
-### Hi there 👋
-my name is Inbar Danieli and i'm a FrontEnd Developer
+### Hi There 👋
+My name is Inbar Danieli and I'm a FrontEnd Developer
 
 <a href="https://www.linkedin.com/in/inbar-danieli" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
@@ -9,7 +9,7 @@ my name is Inbar Danieli and i'm a FrontEnd Developer
 <br/>
 
 
-## favorite rapositories:
+## Favorite Repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InbarDanieli&repo=card-game)](https://github.com/InbarDanieli/card-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pull-Request-Community&repo=pull-request-community-website)](https://github.com/Pull-Request-Community/pull-request-community-website)
